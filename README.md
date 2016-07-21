@@ -1,20 +1,19 @@
-# PublicWorks
+# Milwaukee Open Project Marketplace
 
-To start your Phoenix app:
+Technology can be a huge benefit to a community if it is tailored to their specific needs. 
+However, creating such specific software can be hard to fund. The Milwaukee Open Technology Market 
+is a way for the residents of the city to speak directly to the people making software here, so 
+they can collaborate to make living in Milwaukee better.
 
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.create && mix ecto.migrate`
-  * Install Node.js dependencies with `npm install`
-  * Start Phoenix endpoint with `mix phoenix.server`
+## Premise
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+The goal of this application is to build a web application similar to 
+[kickstarter.com](http://www.kickstarter.com) which enables citizens of the Greater
+Milwaukee Area to request that products or services be provided, and can collect support
+and/or funding for the projects through the platform. Members of the Milwaukee community
+who have the expertise to execute the proposed projects can then submit proposals to the 
+projects, and ultimately work on executing the project. The platform will provide communication
+tools to facilitate execution of the project and communication between the creators of the project
+and the community/stakeholers. See [the U.S Digital Services Playbook](https://playbook.cio.gov/) 
+for a framework on how projects on the system will be run.
 
-Ready to run in production? Please [check our deployment guides](http://www.phoenixframework.org/docs/deployment).
-
-## Learn more
-
-  * Official website: http://www.phoenixframework.org/
-  * Guides: http://phoenixframework.org/docs/overview
-  * Docs: https://hexdocs.pm/phoenix
-  * Mailing list: http://groups.google.com/group/phoenix-talk
-  * Source: https://github.com/phoenixframework/phoenix
