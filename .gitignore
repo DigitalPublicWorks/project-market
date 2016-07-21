@@ -10,6 +10,9 @@ erl_crash.dump
 # Static artifacts
 /node_modules
 
+# macOS specific 
+.DS_Store
+
 # Since we are building assets from web/static,
 # we ignore priv/static. You may want to comment
 # this depending on your deployment strategy.
